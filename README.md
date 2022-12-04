@@ -1,6 +1,6 @@
-# Comparison-of-winners-of-elections-with-different-voting-methods
+# Comparison-of-winners-of-elections-with-different-voting-methods (December 2022)
 
-Python Notebook
+Python (3.9.12) Notebook
 
 
 ![Political Compass](/img/politicalCompass.png?raw=true "Political Compass")
