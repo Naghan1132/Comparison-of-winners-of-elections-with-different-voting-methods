@@ -14,7 +14,7 @@ Choose the number of voters
 
 
 Look at the compass
-![Political Compass](/img/politicalCompass.png?raw=true "Political Compass")
+![Political Compass](/img/politicalCompassBetaDistribution.png?raw=true "Political Compass")
 
 
 Compare the results according to the different voting methods
