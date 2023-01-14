@@ -12,6 +12,8 @@ Plot your candidates
 Choose the number of voters  
 ![Number of Voters](/img/selectVoters.png?raw=true "Number of Voters")
 
+Choose your distribution  
+![Distribution](/img/betaDistribution.png?raw=true "Distribution")
 
 Look at the compass
 ![Political Compass](/img/politicalCompassBetaDistribution.png?raw=true "Political Compass")
