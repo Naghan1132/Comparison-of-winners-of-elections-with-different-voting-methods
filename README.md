@@ -20,16 +20,4 @@ Look at the compass
 Compare the results according to the different voting methods
 
 
-![Condorcet Winner](/img/preferentielCondorcet.png?raw=true "Condorcet Winner")
-
-
-![Borda Method](/img/borda.png?raw=true "Borda Method")
-
-
-![Vote Uninominal 2 tours](/img/2tours.png?raw=true "Uninominal 2 tours")
-
-
-![Vote par approbation](/img/approbation.png?raw=true "Vote par approbation")
-
-
-![Vote alternatif](/img/alternatif.png?raw=true "Vote alternatif")
+![Results](/img/dataFrame.png?raw=true "Results")
