@@ -22,4 +22,4 @@ Look at the compass
 Compare the results according to the different voting methods
 
 
-![Results](/img/dataFrame.png?raw=true "Results")
+![Results](/img/finalDataFrame.png?raw=true "Results")
