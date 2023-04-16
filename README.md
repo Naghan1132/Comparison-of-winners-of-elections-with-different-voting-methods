@@ -2,6 +2,8 @@
 
 Python (3.9.12) Notebook
 
+# Main File
+Run all cells in simulation.ipynb if you're lazy, and watch the results
 
 # Functionnement 
 
